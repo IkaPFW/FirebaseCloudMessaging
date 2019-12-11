@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288595603883",
+    "firebase_url": "https://fir-cloudmessaging-91644.firebaseio.com",
+    "project_id": "fir-cloudmessaging-91644",
+    "storage_bucket": "fir-cloudmessaging-91644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288595603883:android:57499597c285338afae2ee",
+        "android_client_info": {
+          "package_name": "polinema.ac.id.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288595603883-nvu2fi0earfsjhqejnev6q8r35kkmkia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "polinema.ac.id.firebasecloudmessaging",
+            "certificate_hash": "d6633ad93ba33efb6c16d3acea8dbe434b03d5fd"
+          }
+        },
+        {
+          "client_id": "288595603883-tju72i8omtl0ntmqphl6dlrpnfsooose.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrMCRS8D0lsXKtovrdpbVxWDYLRAj1uVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288595603883-tju72i8omtl0ntmqphl6dlrpnfsooose.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
