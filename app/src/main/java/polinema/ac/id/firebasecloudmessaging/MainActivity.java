@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     EditText edtTitle;
     EditText edtMessage;
     final private String FCM_API = "https://fcm.googleapis.com/fcm/send";
-    final private String serverKey = "key=" + "Your Firebase server key";
+    final private String serverKey = "key=" + "AAAAQzGjcas:APA91bGG8EJQ6DRX8lf3OkETyIIff1qO1kj5IYIu-Qwbwzcck_5qbe0gR6q89NYRAaZHI6ZxUn5bouvVZloE74YHbVwq6arj53brFdAIS2OHq6YaPBnnvfNBnlcvqTov2rYFJK6UUr-a";
     final private String contentType = "application/json";
     final String TAG = "NOTIFICATION TAG";
 
